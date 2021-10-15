@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sahib2506
+- 👋 Hi, I’m Sahib from Kolkata, India
 - 👀 I’m interested in discovering new things
 - 🌱 I’m currently learning machine learning and big data
 - 📫 Feel free to reach me out at sahibhussain2506@gmail.com
